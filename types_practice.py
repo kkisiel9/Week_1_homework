@@ -12,3 +12,12 @@ dictionary = {
     "last":"Kisielewska"}
 print(dictionary)
 #I created a dictionary and printed both values and keys
+
+# milena's code
+first_name = 'Milena'
+last_name = 'Davudova'
+print(first_name, last_name)
+full_name = [first_name, last_name]
+full_name_dict = {"first": "Milena", "second": "Davudova"}
+print(full_name_dict)
+print(full_name_dict["first"])
