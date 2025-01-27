@@ -13,3 +13,8 @@ print(len(var))
 
 #c)
 print(var.isdecimal())
+
+var1 = input("Please enter a value: ")
+print(var1.upper())
+print(len(var1))
+print(var1.isdecimal())
