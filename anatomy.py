@@ -7,7 +7,6 @@ if argc > 1:
     print('Too many args')
 #
 else:
-
     where = 'World'
     print("Hello", where)
 # otherwise, the above will be printed, with string concatenation adding the where variable to "hello"
