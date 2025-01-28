@@ -2,7 +2,7 @@
 var = input("Please enter a value:")
 #creating a var function which asks user for input
 
-capitalised_var =var.capitalize()
+capitalised_var = var.capitalize()
 #creating a variable called capitalised_var which stores var changed through a capitalize function??
 
 print(capitalised_var)
